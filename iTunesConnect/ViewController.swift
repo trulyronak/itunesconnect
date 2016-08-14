@@ -7,11 +7,15 @@
 //
 
 import Cocoa
+import WebKit
 
 class ViewController: NSViewController {
 
+    @IBOutlet weak var webView: WebView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.webView.mainFrame.loadRequest(NSURLRequest(URL: NSURL(string: "https://itunesconnect.apple.com")!))
 
         // Do any additional setup after loading the view.
     }

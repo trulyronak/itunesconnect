@@ -13,6 +13,7 @@
 		A611C4591D61117200A70B8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A611C4571D61117200A70B8F /* Main.storyboard */; };
 		A611C4641D61117200A70B8F /* iTunesConnectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A611C4631D61117200A70B8F /* iTunesConnectTests.swift */; };
 		A611C46F1D61117200A70B8F /* iTunesConnectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A611C46E1D61117200A70B8F /* iTunesConnectUITests.swift */; };
+		A611C47D1D61118700A70B8F /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A611C47C1D61118700A70B8F /* WebKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		A611C46A1D61117200A70B8F /* iTunesConnectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iTunesConnectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A611C46E1D61117200A70B8F /* iTunesConnectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTunesConnectUITests.swift; sourceTree = "<group>"; };
 		A611C4701D61117200A70B8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A611C47C1D61118700A70B8F /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A611C47D1D61118700A70B8F /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,6 +78,7 @@
 		A611C4451D61117200A70B8F = {
 			isa = PBXGroup;
 			children = (
+				A611C47C1D61118700A70B8F /* WebKit.framework */,
 				A611C4501D61117200A70B8F /* iTunesConnect */,
 				A611C4621D61117200A70B8F /* iTunesConnectTests */,
 				A611C46D1D61117200A70B8F /* iTunesConnectUITests */,
