@@ -8,3 +8,4 @@ A Mac OS X app to let you access iTunesConnect
 ####What We Want To Add
 - Allowing Multiple Tabs
 - Saving Last Session
+- Notification Center: (We want to be able to see statistics there)
