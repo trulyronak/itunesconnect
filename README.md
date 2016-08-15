@@ -2,7 +2,7 @@
 A Mac OS X app to let you access iTunesConnect
 
 ##Releases:
-[Version 1.0](https://github.com/ronakdev/itunesconnect/releases)
+[Version 1.1](https://github.com/ronakdev/itunesconnect/releases)
 
 ##How to Contribute
 ####What We Want To Add
