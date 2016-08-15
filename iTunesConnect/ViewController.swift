@@ -20,6 +20,9 @@ class ViewController: NSViewController {
         // Do any additional setup after loading the view.
     }
 
+    override func viewDidAppear() {
+        self.view.window!.title = "iTunesConnect"
+    }
     override var representedObject: AnyObject? {
         didSet {
         // Update the view, if already loaded.
