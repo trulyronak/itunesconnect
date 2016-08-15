@@ -1,5 +1,6 @@
 # iTunesConnect
 A Mac OS X app to let you access iTunesConnect
+![iTunesConnect Logo](https://github.com/ronakdev/itunesconnect/raw/master/iTunesConnect/Assets.xcassets/AppIcon.appiconset/iTunesConnectLogoMain.png)
 
 ##Releases:
 [Version 1.1](https://github.com/ronakdev/itunesconnect/releases)
