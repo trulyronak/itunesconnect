@@ -1,6 +1,6 @@
 {
   "name": "iTunes Connect",
   "tagline": "A Mac OS X app to let you access iTunes Connect",
-  "body": "# iTunesConnect\r\nA Mac OS X app to let you access iTunes Connect\r\n\r\n##Releases:\r\n[Version 1.0](https://github.com/ronakdev/itunesconnect/releases)\r\n\r\n##How to Contribute\r\n####What We Want To Add\r\n- Allowing Multiple Tabs\r\n- Saving Last Session\r\n",
+  "body": "# iTunesConnect\r\nA Mac OS X app to let you access iTunesConnect\r\n\r\n##Releases:\r\n[Version 1.1](https://github.com/ronakdev/itunesconnect/releases)\r\n\r\n##How to Contribute\r\n####What We Want To Add\r\n- Allowing Multiple Tabs\r\n- Saving Last Session\r\n- Notification Center: (We want to be able to see statistics there)\r\n\r\n#Logo\r\n\r\n![iTunesConnect Logo](https://github.com/ronakdev/itunesconnect/raw/master/iTunesConnect/Assets.xcassets/AppIcon.appiconset/iTunesConnectLogoMain.png)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
